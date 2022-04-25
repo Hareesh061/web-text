@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.text{
+    letter-spacing: 0.2em;
+      
+}
+.bgcolor{
+    background-color: orange;
+ 
+}
+.bg1{
+    background-color: green;
+}
